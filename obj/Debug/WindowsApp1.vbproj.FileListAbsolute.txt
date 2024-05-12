@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Administrator\Desktop\源文件\VBS弹窗制作\WindowsApp1\obj\Debug\WindowsApp1.pdb
